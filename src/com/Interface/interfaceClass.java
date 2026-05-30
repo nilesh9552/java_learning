@@ -43,9 +43,6 @@ public class interfaceClass implements Client
 		
 		
 	}
-	private void syso() {
-		// TODO Auto-generated method stub
-
-	}
+	
 
 }
