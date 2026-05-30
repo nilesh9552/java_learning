@@ -10,7 +10,7 @@ public static void main(String[] args) {
 	for(int i = 0 ; i<arr.length; i++ ) {
 		arr[i] = sc.nextInt();	
 		}
-	System.out.println("=========================");
+	System.out.println("=========================+++");
 	
 	
 	Arrays.sort(arr);
