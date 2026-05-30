@@ -11,6 +11,7 @@ public static void main(String[] args) {
 		arr[i] = sc.nextInt();	
 		}
 	System.out.println("=========================+++");
+	System.out.println("=========================+++");
 	
 	
 	Arrays.sort(arr);
