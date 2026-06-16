@@ -38,6 +38,7 @@ public class DEMO {
        }
        else {
     	   System.out.println("Data Not insertes");
+    	   System.out.println("This is test msg");
        }
        
     }
