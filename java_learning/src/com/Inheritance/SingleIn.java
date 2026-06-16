@@ -1,4 +1,4 @@
-package Inheritance;
+package com.Inheritance;
 
 class Perent {
 	public void msg() {

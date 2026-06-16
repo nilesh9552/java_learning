@@ -1,3 +1,4 @@
 bin/ 
 *.class 
 src/com/bin/ 
+/.metadata/
